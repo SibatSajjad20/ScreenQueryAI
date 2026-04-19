@@ -1,0 +1,5 @@
+node_modules/
+dist/
+landing/node_modules/
+landing/dist/
+.env
